@@ -11,3 +11,15 @@ C:\Users\micha\Documents\tool\DesktopCapture\DesktopCapture\obj\Release\DesktopC
 C:\Users\micha\Documents\tool\DesktopCapture\DesktopCapture\obj\Release\DesktopCapture.csproj.CopyComplete
 C:\Users\micha\Documents\tool\DesktopCapture\DesktopCapture\obj\Release\DesktopCapture.exe
 C:\Users\micha\Documents\tool\DesktopCapture\DesktopCapture\obj\Release\DesktopCapture.pdb
+C:\Users\micha\Documents\github\DesktopCaptureOfficial\Src\DesktopCapture\DesktopCapture\bin\Release\DesktopCapture.exe.config
+C:\Users\micha\Documents\github\DesktopCaptureOfficial\Src\DesktopCapture\DesktopCapture\bin\Release\DesktopCapture.exe
+C:\Users\micha\Documents\github\DesktopCaptureOfficial\Src\DesktopCapture\DesktopCapture\bin\Release\DesktopCapture.pdb
+C:\Users\micha\Documents\github\DesktopCaptureOfficial\Src\DesktopCapture\DesktopCapture\obj\Release\DesktopCapture.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\DesktopCaptureOfficial\Src\DesktopCapture\DesktopCapture\obj\Release\DesktopCapture.Form1.resources
+C:\Users\micha\Documents\github\DesktopCaptureOfficial\Src\DesktopCapture\DesktopCapture\obj\Release\DesktopCapture.Form2.resources
+C:\Users\micha\Documents\github\DesktopCaptureOfficial\Src\DesktopCapture\DesktopCapture\obj\Release\DesktopCapture.Properties.Resources.resources
+C:\Users\micha\Documents\github\DesktopCaptureOfficial\Src\DesktopCapture\DesktopCapture\obj\Release\DesktopCapture.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\DesktopCaptureOfficial\Src\DesktopCapture\DesktopCapture\obj\Release\DesktopCapture.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\DesktopCaptureOfficial\Src\DesktopCapture\DesktopCapture\obj\Release\DesktopCapture.csproj.CopyComplete
+C:\Users\micha\Documents\github\DesktopCaptureOfficial\Src\DesktopCapture\DesktopCapture\obj\Release\DesktopCapture.exe
+C:\Users\micha\Documents\github\DesktopCaptureOfficial\Src\DesktopCapture\DesktopCapture\obj\Release\DesktopCapture.pdb
